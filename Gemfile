@@ -3,6 +3,7 @@ source "http://rubygems.org"
 gem "rake"
 gem "rspec"
 gem "parallel_tests"
+gem "rb-readline"
 
 gem "rest-client"
 gem "mongo"
